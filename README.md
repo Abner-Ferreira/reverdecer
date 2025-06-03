@@ -1,7 +1,7 @@
 # 🌿 Reverdecer
 
 **Reverdecer** é uma plataforma dedicada à promoção da sustentabilidade, educação ecológica e restauração ambiental.  
-Nosso objetivo é capacitar indivíduos e comunidades a se reconectarem com a natureza, oferecendo recursos, ferramentas e informações para práticas regenerativas.
+Nosso objetivo é capacitar indivíduos e comunidades em situação de vulnerabilidade a se reconectarem com a natureza, oferecendo recursos, ferramentas e informações para práticas regenerativas.
 
 Acesse: [https://reverdecer.vercel.app](https://reverdecer.vercel.app)
 
