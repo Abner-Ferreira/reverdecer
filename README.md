@@ -24,11 +24,3 @@ Acesse: [https://reverdecer.vercel.app](https://reverdecer.vercel.app)
 - **Integrações**: APIs de terceiros para dados ambientais.
 
 ---
-
-## 🛠️ Como Executar Localmente
-
-1. **Clone o repositório**:
-
-   ```bash
-   git clone https://github.com/seu-usuario/reverdecer.git
-   cd reverdecer
