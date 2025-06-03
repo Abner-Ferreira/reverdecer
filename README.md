@@ -1,12 +1,34 @@
-# React + Vite
+# 🌿 Reverdecer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Reverdecer** é uma plataforma dedicada à promoção da sustentabilidade, educação ecológica e restauração ambiental.  
+Nosso objetivo é capacitar indivíduos e comunidades a se reconectarem com a natureza, oferecendo recursos, ferramentas e informações para práticas regenerativas.
 
-Currently, two official plugins are available:
+Acesse: [https://reverdecer.vercel.app](https://reverdecer.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌱 **Educação Ambiental**: Conteúdos e recursos para aprender sobre práticas sustentáveis e regenerativas.
+- 🛠️ **Ferramentas Interativas**: Utilitários que auxiliam na implementação de projetos ecológicos.
+- 📚 **Biblioteca de Recursos**: Artigos, vídeos e materiais educativos sobre ecologia e sustentabilidade.
+- 🧭 **Consultoria Personalizada**: Serviços de orientação para projetos de restauração ambiental.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **Frontend**: [React.js](https://react.dev/) com React para uma experiência de usuário rápida e responsiva.
+- **Hospedagem**: [Vercel](https://vercel.com/) para deploys contínuos e escalabilidade.
+- **Estilização**: CSS Modules para um design moderno e responsivo.
+- **Integrações**: APIs de terceiros para dados ambientais.
+
+---
+
+## 🛠️ Como Executar Localmente
+
+1. **Clone o repositório**:
+
+   ```bash
+   git clone https://github.com/seu-usuario/reverdecer.git
+   cd reverdecer
