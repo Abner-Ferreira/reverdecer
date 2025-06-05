@@ -5,9 +5,9 @@ Nosso objetivo é capacitar indivíduos e comunidades em situação de vulnerabi
 
 Acesse: [https://reverdecer.vercel.app](https://reverdecer.vercel.app)
 
+
 🎥 Assista ao nosso vídeo pitch no YouTube: [https://youtu.be/5u0pmXa2Ny8](https://youtu.be/5u0pmXa2Ny8)
 
----
 
 ## ✨ Funcionalidades
 
@@ -20,7 +20,9 @@ Acesse: [https://reverdecer.vercel.app](https://reverdecer.vercel.app)
 
 ## 🚀 Tecnologias Utilizadas
 
+
 - **Frontend**: [React.js](https://react.dev/) para uma experiência de usuário rápida e responsiva.
 - **Hospedagem**: [Vercel](https://vercel.com/) para deploys contínuos e escalabilidade.
 - **Estilização**: CSS Modules para um design moderno e responsivo.
 - **Integrações**: APIs de terceiros para dados ambientais.
+
